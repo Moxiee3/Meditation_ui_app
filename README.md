@@ -1,16 +1,10 @@
-# meditation_app
+# meditation app
 
-A new Flutter project.
+On day 26 of the “30 Days 30 Apps” challenge, i will build the Meditation App UI , a peaceful and intuitive user interface for a meditation app. The UI is designed to help users find calm through meditation with minimalistic visual elements and a calming navigation experience.
 
-## Getting Started
+# Introduction Screens using Flutter
 
-This project is a starting point for a Flutter application.
+## Preview
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![Demo Video](C:\Users\ilham maulaa\Videos\Captures/to/video.mp4)](https://github.com/user-attachments/assets/c8a33ec3-f57b-4766-8e0f-a3b385d02c22
+)
